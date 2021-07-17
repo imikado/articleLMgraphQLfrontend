@@ -1,0 +1,28 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card{
+    width:400px;
+    border:2px solid #50788d;
+    border-radius:8px;
+    float:left;
+    margin:8px;
+    padding:8px;
+}
+.card h2{
+    background: #50788d;
+    margin:0px;
+    padding-left:8px;
+    color:#fff;
+}
+.popup{
+    border:1px solid #ccc;
+    background: #fff;
+    padding:8px;
+    position: absolute;
+    top:10px;
+    left:10px;
+}
+.popup p{
+    text-align: right;
+}
